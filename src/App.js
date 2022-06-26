@@ -17,7 +17,7 @@ const getFetch = () => {
   const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': 'e0783afa56msh213c3d08decbc17p170768jsn084da8a69873',
+      'X-RapidAPI-Key': 'YOUR API KEY HERE///remember to hide in .env file',
       'X-RapidAPI-Host': 'online-movie-database.p.rapidapi.com'
     }
   };
